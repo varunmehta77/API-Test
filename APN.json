@@ -1,0 +1,42 @@
+{
+  "to": "crXS89AIN10:APA91bHRITKaOnjeB8ED4--H5-gaUml4ZUM-VKPzPlKWWnNVC5j0L5JbTk5n4SIbnXExy5fpka4CtfbqLyHQyOtOdA6uU_dViI99heK_Yk1vq03SRSk2fow9Hpiv6QyfCTHab3yCOoeO",
+  "content_available": true,
+  "mutable_content": true,
+  "notification": {
+    "body": "Body Text",
+    "title": "Test Title",
+    "icon": "appicon",
+    "sound": "default",
+    "media-url": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+    "category": "CustomImagePush"
+  },
+  "data": {
+    "message": {
+      "SendTime": 1509102558,
+      "Sender": "57677563972",
+      "ChannelId": "investor_default_channel",
+      "Type": 4,
+      "New": false,
+      "ProductId": 196,
+      "ProductName": "Test Title",
+      "Id": 0,
+      "Headline": "",
+      "Description": "",
+      "Time": 0,
+      "Subscribed": false,
+      "Trial": false,
+      "Company": "Test Company",
+      "ReccoDate": 1512727274,
+      "ReccoPrice": 1,
+      "TargetPrice": 425,
+      "CurrentMarketPrice": 425,
+      "TemplateId": 1,
+      "PriorityId": 1,
+      "NotificationTitle": "Test Title",
+      "image": "/images/web3/investorPack-home-Img.jpg",
+      "pageURL": "/offers",
+      "NotificationMessage": "Body Text",
+      "Link": "Link"
+    }
+  }
+}
